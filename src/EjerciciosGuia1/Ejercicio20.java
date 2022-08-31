@@ -82,9 +82,9 @@ public class Ejercicio20 {
             }
         }
    if (cont1==3 && cont2==3 && cont3==2){
-       System.out.println("La raiz es magica y la suma de sus lados es "+b1);
+       System.out.println("La matriz es magica y la suma de sus lados es "+b1);
    } else {
-       System.out.println("La raiz no es magica");
+       System.out.println("La matriz no es magica");
    }
     }
 }
